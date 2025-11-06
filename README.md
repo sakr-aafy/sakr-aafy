@@ -1,5 +1,5 @@
 <h2 align="left">
-  Hi 👋! My name is saker and I'm a developer , from tunisi 🇹🇳🇸🇩</h2>
+  Full Stack Developer | Angular, Flask, Node.js | AI & Cybersecurity Enthusiast👨‍💻</h2>
 
 ###
 
